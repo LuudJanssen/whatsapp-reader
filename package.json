@@ -1,0 +1,20 @@
+{
+  "name": "whatsapp-reader",
+  "version": "1.0.0",
+  "description": "Can read Whatsapp histories into a readable format",
+  "main": "src/index.js",
+  "scripts": {
+    "test": "test"
+  },
+  "keywords": [
+    "Whatsapp",
+    "history",
+    "formatter",
+    "styler",
+    "cleaner",
+    "readable",
+    "reader"
+  ],
+  "author": "Luud Janssen",
+  "license": "ISC"
+}
